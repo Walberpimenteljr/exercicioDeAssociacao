@@ -23,6 +23,7 @@ public class SeminariosTest {
         professor.imprime();
 
 
+
     }
 
 }
