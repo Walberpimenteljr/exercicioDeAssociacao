@@ -40,7 +40,7 @@ Demonstrar prática e consistência nos estudos da linguagem
 
 Java
 
-IDEs como IntelliJ IDEA / Eclipse / VS Code
+IDE IntelliJ
 
 Git e GitHub para versionamento
 
