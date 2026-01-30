@@ -1,53 +1,51 @@
-Exercícios em Java
+☕ Exercícios em Java
 
-Este repositório reúne todos os exercícios que desenvolvi em Java até o momento, como parte do meu processo de aprendizagem e evolução na linguagem.
+Repositório com todos os exercícios que desenvolvi em Java até o momento, focado em aprendizado prático e evolução contínua na linguagem.
 
-Os códigos foram feitos com foco em prática constante, reforçando conceitos fundamentais da programação orientada a objetos e lógica de programação.
+Cada exercício representa um passo no estudo de programação orientada a objetos, lógica e boas práticas em Java.
 
-🛠️ Conteúdos praticados até agora
+🚀 Tecnologias e Ferramentas
 
-Lógica de programação
+☕ Java
 
-Estruturas de controle (if, else, switch)
+💻 IntelliJ IDEA
 
-Laços de repetição (for, while, do-while)
+🔧 Git & GitHub
 
-Vetores e matrizes
+📘 Conteúdos estudados
 
-Métodos e funções
-
-Classes e objetos
-
-Encapsulamento
-
-Herança
-
-Polimorfismo
-
-Exercícios práticos e desafios de fixação
+✔️ Lógica de programação
+✔️ Estruturas condicionais (if, else, switch)
+✔️ Laços de repetição (for, while, do-while)
+✔️ Vetores e matrizes
+✔️ Métodos
+✔️ Classes e objetos
+✔️ Encapsulamento
+✔️ Herança
+✔️ Polimorfismo
+✔️ Exercícios de fixação e prática
 
 🎯 Objetivo do repositório
 
-Consolidar o aprendizado em Java
+Consolidar os fundamentos de Java
 
-Manter um histórico de evolução nos estudos
+Acompanhar minha evolução como desenvolvedor
 
-Servir como base de consulta futura
+Criar uma base de estudos para consultas futuras
 
 Demonstrar prática e consistência nos estudos da linguagem
 
-🚀 Tecnologias utilizadas
+📂 Organização
 
-Java
-
-IDE IntelliJ
-
-Git e GitHub para versionamento
+Os exercícios estão organizados de forma simples, conforme os conteúdos estudados ao longo do tempo.
+Novos exercícios e melhorias serão adicionados conforme o avanço nos estudos.
 
 📌 Observações
 
-Os exercícios foram desenvolvidos ao longo do aprendizado, portanto:
+Os códigos refletem meu nível de aprendizado em cada etapa
 
-Alguns códigos podem ter soluções diferentes ou mais simples
+Refatorações podem acontecer à medida que novos conceitos forem aprendidos
 
-Refatorações poderão ser feitas futuramente conforme o avanço nos estudos
+O foco principal é aprender bem os fundamentos antes de avançar
+
+📈 Repositório em constante evolução.
